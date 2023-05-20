@@ -1,4 +1,4 @@
-# decay-gtk
+# Decay-Gtk
 
 * Revamped Decay port to GTK!
 
