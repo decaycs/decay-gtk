@@ -8,11 +8,7 @@
 
 * Revamped Decay port to GTK!
 
-# Installation
-
-```sh
-echo Work-in-progress
-```
+# **INFO**: Decay-GTK is moving to Gradience which means if you want gtk3 apps to use our gtk theme you need to install [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
 
 # Thanks to
 
