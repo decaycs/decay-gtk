@@ -1,6 +1,4 @@
-# Decay-gtk
-
-# **WARNING**: Currently the whole Decay colorscheme is going through huge revamp which also includes it's ports such as this one.
+# Decay-Gtk
 
 * Revamped Decay port to GTK!
 
