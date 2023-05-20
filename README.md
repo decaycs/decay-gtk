@@ -16,7 +16,7 @@ cp -r ./Themes/<theme> ~/.themes
 
 # Thanks to
 
-- [Alxhr0](https://github.com/Alxhr0)
+- [AloneER0](https://github.com/AloneER0)
 
 # Info
 
