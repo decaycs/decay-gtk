@@ -1,4 +1,6 @@
-# decay-gtk
+# Decay-gtk
+
+# **WARNING**: Currently the whole Decay colorscheme is going through huge revamp which also includes it's ports such as this one.
 
 * Revamped Decay port to GTK!
 
@@ -16,7 +18,7 @@ cp -r ./Themes/<theme> ~/.themes
 
 # Thanks to
 
-- [AloneER0](https://github.com/AloneER0)
+- [Alxhr0](https://github.com/Alxhr0)
 
 # Info
 
