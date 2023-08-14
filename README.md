@@ -6,6 +6,8 @@
 
 # **WARNING**: Currently the whole Decay colorscheme is going through huge revamp which also includes it's ports such as this one.
 
+# Decay-Gtk
+
 * Revamped Decay port to GTK!
 
 ## **INFO**: Decay-GTK is moving to Gradience which means if you want gtk3 apps to use our gtk theme you need to install [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
