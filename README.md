@@ -10,6 +10,18 @@
 
 ## **INFO**: Decay-GTK is moving to Gradience which means if you want gtk3 apps to use our gtk theme you need to install [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
 
+## **Install**:
+
+```bash
+# If you're using the flatpak version put the presets in:
+  $HOME/.var/app/com.github.GradienceTeam.Gradience.Devel/config/presets
+
+# If you're using the AUR,Copr basically not the flatpak pput the presets in:
+  $HOME/.config/presets/user
+
+```
+
+
 # Thanks to
 
 - [Alxhr0](https://github.com/Alxhr0)
