@@ -38,7 +38,9 @@ using nwg-look, and lxappearance for xorg environments.
 You can execute a command such as this:
 
 ```sh
-yay -S gradience nwg-look adw-gtk3 # replace nwg-look to lxappearance if needed
+# replace nwg-look to lxappearance if needed
+# gradience-git is needed for getting gnome shell support btw
+yay -S gradience-git nwg-look adw-gtk3
 ```
 
 > You can use your AUR helper of preference.
@@ -91,6 +93,16 @@ similar to this in both nwg-look and lxappearance:
 
 7. As you can see in the image, you'll have to enable the or `adw-gtk3` or `adw-gtk3-dark` theme, both will
 have the decay theme applied in it :)
+
+## Getting gnome shell theming
+
+If you want to get gnome shell theming support:
+
+1. Go to the theming tab at gradience:
+
+![gradience-theming](./assets/gradience-theming.png)
+
+2. Press Apply in the Apply button for the Shell section.
 
 ## Enjoy
 
