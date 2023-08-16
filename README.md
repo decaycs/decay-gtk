@@ -4,25 +4,39 @@
 
 <h3 align="center">Decay GTK</h3>
 
-# **WARNING**: Currently the whole Decay colorscheme is going through huge revamp which also includes it's ports such as this one.
-
 # Decay-Gtk
 
-* Revamped Decay port to GTK!
+Welcome! This is the revamped decay port to GTK!
 
-## **INFO**: Decay-GTK is moving to Gradience which means if you want gtk3 apps to use our gtk theme you need to install [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
+## Notes
 
-## **Install**:
+1. Decay-GTK is migrating to Gradience, which means that if you want
+gtk3 applications to be themed, you'll need to install
+[adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
 
-```bash
-# If you're using the flatpak version put the presets in:
-  $HOME/.var/app/com.github.GradienceTeam.Gradience.Devel/config/presets
+2. Actually the whole decay colorscheme is going through a huge
+revamp, which also includes its ports, such as this one :)
 
-# If you're using the AUR,Copr basically not the flatpak put the presets in:
-  $HOME/.config/presets/user
+## Installation
 
+You can follow the next steps into your command line:
+
+```sh
+git clone https://github.com/decaycs/decay-gtk && cd decay-gtk
+mkdir -pv ~/.config/presets/user
+cp -rvf ./Themes/* ~/.config/presets/user
 ```
 
+### Note on flatpak users
+
+If you wanna get your flatpak applications themed as well, you will
+have to install the adw-gtk3 flatpak, and put the templates
+at `~/.var/app/com.github.GradienceTeam.Gradience.Devel/config/presets/`
+too!
+
+```sh
+cp -rvf ./Themes/* ~/.var/app/com.github.GradienceTeam.Gradience.Devel/config/presets
+```
 
 # Thanks to
 
@@ -30,4 +44,5 @@
 
 # Info
 
-If you see any inconsistency. Create a issue.
+If you see any inconsistent when using the theme, please, consider
+making an Issue in this repository.
