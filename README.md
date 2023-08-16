@@ -18,7 +18,7 @@
 # If you're using the flatpak version put the presets in:
   $HOME/.var/app/com.github.GradienceTeam.Gradience.Devel/config/presets
 
-# If you're using the AUR,Copr basically not the flatpak pput the presets in:
+# If you're using the AUR,Copr basically not the flatpak put the presets in:
   $HOME/.config/presets/user
 
 ```
